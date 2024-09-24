@@ -4,7 +4,6 @@ This repository contains a comprehensive collection of weather events data acros
 
 The dataset can be located below:
     * https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
-![image](https://github.com/user-attachments/assets/d7087836-8b20-4c5f-91c3-dfaf46b46de9)
 
 The analysis confirmed that both Logit and Probit models are highly effective in forecasting weather conditions, showcasing a strong goodness of fit as indicated by identical deviance and Akaike Information Criterion (AIC) scores. The calibration graph demonstrates that these models accurately predict the probabilities of various weather conditions, aligning perfectly with observed probabilities. This precise calibration across different weather types underscores the reliability of the models in practical applications.
 
